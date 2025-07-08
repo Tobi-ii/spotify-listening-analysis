@@ -1,2 +1,2 @@
-📊 Excel analysis
+📊 Python analysis
 
